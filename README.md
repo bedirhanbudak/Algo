@@ -30,8 +30,6 @@ There are **some** homeworks that were given by the lecturer during the **Algori
 
 The solitions are **fully** coded by me.
 
-### Contact Me
-
-**LinkedIn:** [bedirhanbudak](https://www.linkedin.com/in/bedirhan-budak/)
-
-**Telegram:** [bedirhanb](https://t.me/bedirhanb)
+### Contact Me 
+**LinkedIn:** [bedirhanbudak](https://www.linkedin.com/in/bedirhan-budak/) 
+**Telegram:** [bedirhanb](https://t.me/bedirhanb) 
